@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This project is a simple website I've created to practice the fundamentals of HTML.
+A simple website I created to practice the fundamentals of HTML.
 
 ## Description
 
